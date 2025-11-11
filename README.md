@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Saurabh Shukla
 
- Full Stack Developer | Interned at BlueStock Fintech 
+ Full Stack Developer | SDE Intern at BlueStock Fintech (july 2025 - sept 2025)
 
 ---
 
@@ -35,7 +35,14 @@ Right now, I’m laser-focused on:
 
 ---
 
+🛠️ Featured Projects
 
+ ServEase - A Web Platform for Discovering and Booking Verified Local Services in Real-Time
+ — A local service finder platform that connects users with nearby verified service providers through an easy-to-use interface.
+ TickNoteDo 
+ — an all-in-one productivity web app that seamlessly combines a to-do list, notes, and a focus timer
+ URl Shortner 
+ — a fast and efficient URL shortener that converts long links into sleek, shareable URLs
 
 ---
 
