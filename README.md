@@ -36,12 +36,7 @@ Right now, I’m laser-focused on:
 
 ---
 
-### 🧑‍💻 Current Goals
 
-- 🔍 Land my first **internship** in software development
-- 🧩 Finish **100+ DSA problems** before placement season
-- 🌐 Launch **3 full-stack projects** that solve real problems
-- 📚 Contribute to open-source
 
 ---
 
@@ -57,8 +52,8 @@ Right now, I’m laser-focused on:
 
 - ✉️ [Email](mailto:saurabhshukla8983@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-shukla)
-- 🌐 [Portfolio](https://portfolio.link/) *(Coming Soon)*
+- 🌐 [Portfolio](https://thesaurabhportfolio.vercel.app/)
 
 ---
 
-> “Stay consistent, stay curious. You’re one project away from changing your life.”
+> “Stay consistent, stay curious.”
