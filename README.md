@@ -1,38 +1,37 @@
 # 👋 Hi, I’m Saurabh Shukla
 
-🚀 Aspiring Full Stack Developer | 💻 B.Tech CSE Final Year | 📍 India
+ Full Stack Developer | Interned at BlueStock Fintech 
 
 ---
 
 ### 🧠 About Me
 
-I'm a final year Computer Science student on a mission to become an **unstoppable software engineer** — capable of solving real-world problems, building scalable applications, and crushing coding interviews. 
-
+I’m a passionate software developer who loves building end-to-end web applications — from crafting responsive UIs to designing scalable backends. I enjoy solving real-world problems through clean, maintainable code and continuous learning.
 Right now, I’m laser-focused on:
 
-- 🔧 **Mastering DSA** (Solved 40+ problems, focused on arrays & linked lists)
+- 🔧 **Mastering DSA**
 - ⚛️ **Building full-stack web apps** using React + modern backend tools
-- 💼 **Getting internship-ready** with a strong project portfolio
-- 📈 Growing into a **top-tier developer** ready for FAANG+ or Fortune 500
+- 📈 Growing into a **top-tier developer**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+**Frontend**   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
 
-**Backend (Learning in Progress)**  
+**Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 
-**Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+**Database**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+
 
 ---
 
