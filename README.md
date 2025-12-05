@@ -37,12 +37,14 @@ Right now, I’m laser-focused on:
 
 🛠️ Featured Projects
 
- ServEase - A Web Platform for Discovering and Booking Verified Local Services in Real-Time
+ SmartServe - A Web Platform for Discovering and Booking Verified Local Services in Real-Time
  — A local service finder platform that connects users with nearby verified service providers through an easy-to-use interface.
  TickNoteDo 
  — an all-in-one productivity web app that seamlessly combines a to-do list, notes, and a focus timer
  URl Shortner 
  — a fast and efficient URL shortener that converts long links into sleek, shareable URLs
+ Shareboard
+  — A simple platform for writng post and reading public posts
 
 ---
 
