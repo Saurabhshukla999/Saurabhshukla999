@@ -48,14 +48,6 @@ Right now, I’m laser-focused on:
 
 ---
 
-### 📈 GitHub Stats
-
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabhshukla999&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhshukla999&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 How to reach me
 
 - ✉️ [Email](mailto:saurabhshukla8983@gmail.com)
